@@ -6,3 +6,4 @@ Task1/Type3/ filter=lfs diff=lfs merge=lfs -text
 Task1/Type3/ filter=lfs diff=lfs merge=lfs -text
 Task1/Type4/ filter=lfs diff=lfs merge=lfs -text
 Task1/Type4/ filter=lfs diff=lfs merge=lfs -text
+Task2/ filter=lfs diff=lfs merge=lfs -text
