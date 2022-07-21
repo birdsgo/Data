@@ -10,3 +10,4 @@ Task2/ filter=lfs diff=lfs merge=lfs -text
 Task2/ filter=lfs diff=lfs merge=lfs -text
 Task2/ filter=lfs diff=lfs merge=lfs -text
 Task2/ filter=lfs diff=lfs merge=lfs -text
+Task3/ filter=lfs diff=lfs merge=lfs -text
