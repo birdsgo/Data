@@ -14,3 +14,4 @@ Task3/ filter=lfs diff=lfs merge=lfs -text
 Task4/ filter=lfs diff=lfs merge=lfs -text
 Task4/ filter=lfs diff=lfs merge=lfs -text
 Task5/ filter=lfs diff=lfs merge=lfs -text
+Task5/ filter=lfs diff=lfs merge=lfs -text
