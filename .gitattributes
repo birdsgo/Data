@@ -19,3 +19,4 @@ Task5/ filter=lfs diff=lfs merge=lfs -text
 Task5/ filter=lfs diff=lfs merge=lfs -text
 Task5/test/ filter=lfs diff=lfs merge=lfs -text
 Task5/test/wav/20190812184707.wav filter=lfs diff=lfs merge=lfs -text
+Task5/test/wav/*.wav filter=lfs diff=lfs merge=lfs -text
